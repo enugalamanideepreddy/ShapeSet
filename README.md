@@ -1,6 +1,8 @@
 # ShapeSet
 
-PKG is a package designed to simplify and streamline your workflow for [briefly describe the main purpose or functionality of your package, e.g., "data processing", "API integration", etc.].
+[![Publish Python 🐍 distribution to PyPI](https://github.com/enugalamanideepreddy/ShapeSet/actions/workflows/pypi-publish.yml/badge.svg)](https://github.com/enugalamanideepreddy/ShapeSet/actions/workflows/pypi-publish.yml)
+
+SHapeSet is a package designed to simplify and streamline your workflow for [briefly describe the main purpose or functionality of your package, e.g., "data processing", "API integration", etc.].
 
 ## Features
 
