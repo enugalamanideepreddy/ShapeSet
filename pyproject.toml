@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ShapeSet"
-version = "0.1.0"
+version = "0.1.O"
 description = "This package helps generate datasets of simple shapes like squares, circles, triangles, etc. for computer vision tasks."
 readme = "README.md"
 authors = [
