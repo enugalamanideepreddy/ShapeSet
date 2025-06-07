@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author='Manideep Reddy Enugala',
     author_email='enugalamanideepreddy99@gmail.com',
-    description='This package helps to add and multiply two numbers',
+    description='This package helps generate datasets of simple shapes like squares, circles, triangles, etc. for computer vision tasks.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     packages=find_packages(),

@@ -31,6 +31,9 @@ def generate(class_names: Union[list, str],
     random.seed(seed)
     np.random.seed(seed=seed)
 
+    if image_size < 80:
+        raise ValueError("Image size must be at least 80 pixels.")
+
     dataset = ShapesDataset(class_names=class_names)
 
     # Calculate images per shape type
