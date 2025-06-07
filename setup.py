@@ -7,6 +7,7 @@ setup(
     author_email='enugalamanideepreddy99@gmail.com',
     description='This package helps to add and multiply two numbers',
     long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=["numpy","opencv-python","tqdm"],
     classifiers=[
